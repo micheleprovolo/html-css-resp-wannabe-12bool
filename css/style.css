@@ -7,7 +7,7 @@
 
 /* BLOCCO LEZIONI */
 #lezioni .row > .left, #lezioni .row > .right{
-  width: 50%;
+  /* width: 50%; */
   float: left;
 }
 

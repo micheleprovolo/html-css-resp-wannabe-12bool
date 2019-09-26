@@ -6,7 +6,7 @@
 }
 
 .container {
-  max-width: 1170px;
+  /* max-width: 1170px; */
   margin: 0 auto;
 }
 
@@ -328,5 +328,5 @@
   .col-xs-offset-12 {
     margin-left: calc((100% / 12) *12);
   }
-  
+
 }
